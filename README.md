@@ -1,4 +1,4 @@
-# LinkedList
+# ILinkedList
 
 Author: Amanda Goodridge
 Date: January 15, 2019
